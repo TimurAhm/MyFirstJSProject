@@ -1,1 +1,1 @@
-My first experience pushing js project into a github repository
+My first experience pushing a js project into a github repository
